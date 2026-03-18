@@ -1,7 +1,0 @@
-{
-  "name": "tmark-review-hub",
-  "private": true,
-  "dependencies": {
-    "@vercel/kv": "^2.0.0"
-  }
-}
